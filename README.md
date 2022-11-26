@@ -1,1 +1,1 @@
-# Blood-Bank-Managent-System-Laravel-8.0
+# Laravel-8.0-School-management-system
