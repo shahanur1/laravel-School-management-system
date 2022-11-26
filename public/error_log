@@ -1,0 +1,70 @@
+[18-Sep-2022 23:45:02 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 / in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[19-Sep-2022 12:00:51 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 / in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[19-Sep-2022 15:36:43 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 / in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[19-Sep-2022 20:55:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 / in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[20-Sep-2022 12:33:55 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 / in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Sep-2022 21:10:01 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 / in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Sep-2022 21:10:01 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 / in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[23-Sep-2022 23:33:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 / in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[02-Oct-2022 13:38:58 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 / in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[02-Oct-2022 13:38:59 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 / in /home/smshaju/public_html/Student_management_system/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
